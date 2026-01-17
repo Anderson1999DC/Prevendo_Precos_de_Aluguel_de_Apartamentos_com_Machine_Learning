@@ -73,8 +73,8 @@ prevendo_precos_apartamento_ML/
 │
 ├── requirements.txt
 │
-└── README.md
-
+└── README.md 
+```
 ---
 
 ## 📌 Observações Finais
@@ -85,7 +85,7 @@ Este é um projeto pessoal com fins educacionais, desenvolvido com foco em conso
 
 👤 Autor
 
-Anderson Junior
+Anderson Coelho 
 Projeto desenvolvido para fins de estudo e portfólio em Ciência de Dados.
 
 
