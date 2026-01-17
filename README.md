@@ -86,6 +86,7 @@ Este é um projeto pessoal com fins educacionais, desenvolvido com foco em conso
 👤 Autor
 
 Anderson Coelho 
+
 Projeto desenvolvido para fins de estudo e portfólio em Ciência de Dados.
 
 
