@@ -81,6 +81,8 @@ prevendo_precos_apartamento_ML/
 
 Este é um projeto pessoal com fins educacionais, desenvolvido com foco em consolidar conhecimentos em Ciência de Dados e Machine Learning, utilizando dados reais e boas práticas de mercado.
 
+A análise de resíduos mostra que o modelo não apresenta viés significativo, com erros distribuídos de forma aproximadamente simétrica em torno de zero. Observa-se maior variabilidade para imóveis de maior valor, comportamento esperado em dados imobiliários devido à maior heterogeneidade desse segmento.
+
 ---
 
 👤 Autor
